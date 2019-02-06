@@ -1,8 +1,5 @@
-# taste = ["crunchy", "spicy", "sweet", "sour", "savory", "bitter", "soft", "plain", "flavorful", "chewy"]
 taste = Array.new
-# cook_style = ["deep-fried", "roasted", "grilled", "pan-fried", "steamed", "boiled", "confit", "stir-fried", "microwaved", "baked"]
 cook_style = Array.new
-# food = ["pork", "beef", "dumplings", "sturgeon", "pigeon", "chicken", "bok-choy", "rice-cake", "fish-cake", "duck"]
 food = Array.new
 
 puts "Please enter all different tastes you want, separate them by commas: > "
